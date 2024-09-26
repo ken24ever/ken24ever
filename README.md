@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kenneth Osasu Enobakhare, I'm a web developer and major in backend programming, although i'm also good in frontend to some extent.
 - 👀 I’m interested in PHP, JAVASCRIPT, HTML5, CSS, LARAVEL, REACTJS, MYSQL
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborating with you on any web projects.
 - 📫 How to reach me @ken24ever and kenenobas@gmail.com
 
 <!---
